@@ -16,6 +16,8 @@ Machine Learning: Scikit-learn, Pandas, NumPy
 Visualization: Matplotlib, Seaborn
 Project Structure
 Loan-Approval-Prediction/
+
+
 │
 ├── app.py                    # Backend Python script (Flask)
 ├── static/                   # Static files (CSS, images, etc.)
@@ -28,7 +30,11 @@ Loan-Approval-Prediction/
 │   └── loan_data.csv         # Historical loan data
 ├── README.md                 # Project documentation
 └── requirements.txt          # Dependencies
-Features
+
+
+Features:
+
+
 Loan Approval Prediction: Classify whether a loan will be approved or not based on input features.
 Web Interface: Simple web form for users to input data and get loan approval results.
 Model Training: Code for training, evaluating, and saving machine learning models.
